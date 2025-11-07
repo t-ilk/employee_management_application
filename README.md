@@ -75,3 +75,9 @@ npm run test:ci
 - Responsive design for mobile and desktop
 - Internationalization support (English/Turkish)
 - Comprehensive test coverage (85%+)
+
+## Development Notes
+
+This project was developed with extensive use of AI assistance tools, adopted due to tight time constraints and the developer's unfamiliarity with the Lit Elements platform and modern web component architecture. Despite these constraints, AI assistance was introduced in a controlled, step-by-step fashion to ensure code quality and maintainability.
+
+**Note on Design Compliance:** The developer acknowledges that some features may not be 100% compliant with the provided designs. These deviations are also attributed to the tight time constraints faced during development, and represent areas for potential future refinement.
